@@ -1,22 +1,30 @@
-# Challenge 2: Make the Quantum Coin Biased
+# Qiskit Fall Fest 2026 – Quantum Computing Challenges
 
-This project demonstrates how quantum gates can control the measurement probabilities of a single qubit using Python and Qiskit. Two different quantum circuits are implemented to make the measurement outcomes biased toward 0 or 1. Each circuit is executed for 100 shots, and the results are visualized using histograms.
+## 📌 About the Project
+This repository contains four hands-on quantum computing challenges from Qiskit Fall Fest 2026, conducted by IBM Quantum and Vishnu Institute of Technology. The project explores basic quantum circuits, quantum gates, measurement probabilities, and correlations using Python and Qiskit.
 
-## Technologies Used
+## 🚀 Challenges Covered
+- **Challenge 1: Predict the Output** – Predict and verify quantum circuit measurement outcomes using X and H gates.
+- **Challenge 2: Make the Quantum Coin Biased** – Modify quantum gates to create unequal measurement probabilities.
+- **Challenge 3: Can You Change the Correlation?** – Investigate how changing a gate affects correlations between two qubits.
+- **Challenge 4: Quantum Correlation Switch** – Create and compare circuits that produce correlated and opposite measurement outcomes.
+
+## 🛠️ Technologies Used
 - Python
 - Qiskit
-- Qiskit Aer
-- Matplotlib
+- Jupyter Notebook
+- Quantum Circuit Visualization
 
-## Key Features
-- Single-qubit quantum circuits
-- Biased measurement probabilities
-- 100-shot quantum simulations
-- Measurement counts and histograms
-- Comparison of outcomes for 0 and 1
+## 📊 Experiments
+Each challenge involves building quantum circuits, predicting measurement outcomes, executing experiments with 100 shots, and visualizing results using histograms.
 
-## Expected Outcome
-One circuit produces 0 more frequently, while the other produces 1 more frequently. The histograms help visualize how changing the quantum gate rotation angle affects measurement probabilities.
+## 🎯 Learning Outcomes
+- Understand basic quantum gates and circuits.
+- Explore quantum superposition and measurement probabilities.
+- Learn about Bell states and quantum correlations.
+- Analyze and compare quantum measurement results.
 
-## Conclusion
-This project provides a basic understanding of quantum state rotation, measurement probabilities, and quantum circuit simulation using Qiskit.
+## 🙏 Acknowledgment
+Thanks to IBM Quantum and Vishnu Institute of Technology for providing this opportunity to learn and experiment with quantum computing.
+
+**#Qiskit #QuantumComputing #Python #IBMQuantum #QiskitFallFest2026**
